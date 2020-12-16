@@ -7,10 +7,6 @@ body
     margin: 0;
     padding: 0;
 }
-<<<<<<< HEAD
-=======
-
->>>>>>> dd65785271b322909f1792624bd55e84848321f1
 #cabecera
 {
     background: #33A;
@@ -27,35 +23,16 @@ body
     font-weight: normal;
     font-size: 0.8em;
 }
-<<<<<<< HEAD
 #container
 {
     width: 70%;
     padding: 1em;
-=======
-
-#container
-{
-    width: 70%;
-    padding: 0;
->>>>>>> dd65785271b322909f1792624bd55e84848321f1
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
 }
-<<<<<<< HEAD
 #
 #container h1
 {
     font-size: 20px;
-=======
-
-#container h1
-{
-    font-size: 20px;
-}
-#post
-{
-    padding: 1em;
->>>>>>> dd65785271b322909f1792624bd55e84848321f1
 }
